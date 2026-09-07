@@ -5,7 +5,7 @@
 </p>
  
 CS student (2nd year) writing C/C++
-Got into linux 5 month ago and really enjoying my journey
+Got into Linux 5 month ago and really enjoying my journey
 
 ## My interests 
 **tinkering:** breaking things to understand them
@@ -14,4 +14,4 @@ Got into linux 5 month ago and really enjoying my journey
 
 **ricing:**  tweaking dots until they're perfect
 ## Currently
-Stydying and completeting my NixOS config
+Studying and completing my NixOS config
